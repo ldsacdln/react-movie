@@ -1,0 +1,33 @@
+.search-container{
+    color: white;
+}
+
+.search-result{
+    margin: 30px;
+}
+
+.search-movies-poster{
+    height: 75px;
+    width: 50px;
+}
+
+.title{
+    margin: 15px;
+    font-size: 30px;
+}
+
+.movie-item{
+    display: flex;
+    align-items: center;
+    padding: 8px 16px 8px 16px;
+}
+
+.search-movie-title{
+    margin: 15px;
+    font-size: 20px;
+}
+
+.movie-item:hover{
+    cursor: pointer;
+    background: rgb(180, 180, 180);
+}
